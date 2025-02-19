@@ -5,6 +5,10 @@
 
 This project analyzes COVID-19 data obtained from the CDC website. Using MySQL, we query a dataset of 85,000 records to extract valuable insights about COVID-19 trends. Additionally, a Tableau dashboard has been created to visualize key findings interactively.
 
+## Covid Dashboard
+
+https://public.tableau.com/app/profile/neel.patel5614/viz/CovidDashboard_17393284942370/Dashboard1 
+
 ## 📂 Data Source
 
 Dataset: COVID-19 data from the CDC website
